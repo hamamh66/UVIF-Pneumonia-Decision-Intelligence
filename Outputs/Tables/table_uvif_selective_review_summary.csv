@@ -1,0 +1,2 @@
+UVIF threshold,Review margin,Automatic coverage,Clinical review rate,Automatic-decision accuracy,Automatic-decision sensitivity,Automatic-decision specificity,Automatic false negatives,Automatic false positives,Reviewed cases
+0.98,0.1,0.3125,0.6875,0.9538461538461539,0.0,1.0,9,0,429

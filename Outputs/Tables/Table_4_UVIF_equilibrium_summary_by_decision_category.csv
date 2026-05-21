@@ -1,0 +1,4 @@
+uvif_decision_category,cases,mean_probability,mean_uncertainty,mean_clinical_risk,mean_fp_burden,mean_reliability,mean_equilibrium_utility
+Alert,380,0.99763536,0.0047292053,0.06463346,0.06271338,0.9952906,0.5714838
+No urgent action,210,0.30317014,0.3025901,0.26809523,0.2546803,0.74398905,0.3173001
+Review,34,0.95882463,0.082350746,0.39052355,0.36585057,0.9195058,0.39648646

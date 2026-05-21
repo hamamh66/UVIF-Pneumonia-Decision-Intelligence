@@ -1,0 +1,7 @@
+Aspect,Conventional AI,UVIF-oriented AI
+Primary objective,Minimize prediction error / maximize classification performance,Maintain safe decision equilibrium under uncertainty and risk
+Output,Forced class label and probability,"Decision category with confidence, uncertainty, and review option"
+Uncertainty,Used mainly as a probability score,Explicit component of the decision layer
+Risk handling,Implicit in thresholded predictions,False-negative and false-positive burdens explicitly considered
+Low-confidence cases,Still forced into Normal or Pneumonia,Routed to clinical review when uncertainty is high
+Clinical interpretation,Prediction-centered screening output,Decision-centered support for safe and adaptive action

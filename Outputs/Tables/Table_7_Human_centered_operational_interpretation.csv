@@ -1,0 +1,6 @@
+Layer,Conventional AI,UVIF
+Conventional AI output,Forced class decision: Normal / Pneumonia,"Initial evidence stream, not the final decision"
+Uncertainty handling,Implicit probability confidence,Explicit uncertainty and reliability terms
+Risk and burden,False positives and false negatives appear after prediction,False-positive burden and clinical-risk terms are part of the decision functional
+Human oversight,No native review route,Review category preserves clinician oversight
+Operational action,Prediction-only output,Alert / Review / No urgent action

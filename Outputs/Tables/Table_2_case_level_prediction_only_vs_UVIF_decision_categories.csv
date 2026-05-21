@@ -1,0 +1,625 @@
+case_id,true_class,conventional_probability_pneumonia,conventional_forced_output,uvif_probability_pneumonia,uvif_uncertainty,uvif_decision_category
+0,Pneumonia,0.99979115,Prediction-only: pneumonia,0.99979115,0.00041770935,Alert
+1,Normal,0.9927811,Prediction-only: pneumonia,0.9927811,0.014437795,Alert
+2,Pneumonia,0.99836785,Prediction-only: pneumonia,0.99836785,0.003264308,Alert
+3,Normal,0.00012353044,Prediction-only: normal,0.00012353044,0.00024706125,No urgent action
+4,Pneumonia,0.99978554,Prediction-only: pneumonia,0.99978554,0.00042891502,Alert
+5,Pneumonia,0.9998765,Prediction-only: pneumonia,0.9998765,0.00024700165,Alert
+6,Pneumonia,0.99932915,Prediction-only: pneumonia,0.99932915,0.0013417006,Alert
+7,Pneumonia,0.9994282,Prediction-only: pneumonia,0.9994282,0.0011435747,Alert
+8,Pneumonia,0.99771655,Prediction-only: pneumonia,0.99771655,0.004566908,Alert
+9,Normal,0.9814866,Prediction-only: pneumonia,0.9814866,0.037026763,Alert
+10,Pneumonia,0.99998045,Prediction-only: pneumonia,0.99998045,3.9100647e-05,Alert
+11,Pneumonia,0.9973001,Prediction-only: pneumonia,0.9973001,0.005399823,Alert
+12,Pneumonia,0.99413913,Prediction-only: pneumonia,0.99413913,0.01172173,Alert
+13,Pneumonia,0.9999461,Prediction-only: pneumonia,0.9999461,0.0001077652,Alert
+14,Pneumonia,0.99686533,Prediction-only: pneumonia,0.99686533,0.0062693357,Alert
+15,Pneumonia,0.9992526,Prediction-only: pneumonia,0.9992526,0.0014947653,Alert
+16,Pneumonia,0.9999206,Prediction-only: pneumonia,0.9999206,0.00015878677,Alert
+17,Pneumonia,0.9438257,Prediction-only: pneumonia,0.9438257,0.11234856,Review
+18,Pneumonia,0.9994861,Prediction-only: pneumonia,0.9994861,0.0010278225,Alert
+19,Normal,0.11961009,Prediction-only: normal,0.11961009,0.2392202,No urgent action
+20,Normal,0.0034982034,Prediction-only: normal,0.0034982034,0.006996393,No urgent action
+21,Pneumonia,0.9992075,Prediction-only: pneumonia,0.9992075,0.0015850067,Alert
+22,Pneumonia,0.9697645,Prediction-only: pneumonia,0.9697645,0.060471058,Review
+23,Pneumonia,0.9881874,Prediction-only: pneumonia,0.9881874,0.023625255,Alert
+24,Pneumonia,0.9996856,Prediction-only: pneumonia,0.9996856,0.000628829,Alert
+25,Normal,0.0007596887,Prediction-only: normal,0.0007596887,0.001519382,No urgent action
+26,Pneumonia,0.9980538,Prediction-only: pneumonia,0.9980538,0.0038924217,Alert
+27,Normal,0.015666706,Prediction-only: normal,0.015666706,0.031333387,No urgent action
+28,Normal,0.9409977,Prediction-only: pneumonia,0.9409977,0.11800456,Review
+29,Pneumonia,0.9995428,Prediction-only: pneumonia,0.9995428,0.00091445446,Alert
+30,Normal,0.91704816,Prediction-only: pneumonia,0.91704816,0.16590369,No urgent action
+31,Pneumonia,0.9992931,Prediction-only: pneumonia,0.9992931,0.0014138222,Alert
+32,Pneumonia,0.99955505,Prediction-only: pneumonia,0.99955505,0.00088989735,Alert
+33,Pneumonia,0.99805564,Prediction-only: pneumonia,0.99805564,0.0038887262,Alert
+34,Pneumonia,0.99977046,Prediction-only: pneumonia,0.99977046,0.00045907497,Alert
+35,Pneumonia,0.9987406,Prediction-only: pneumonia,0.9987406,0.002518773,Alert
+36,Normal,0.025927313,Prediction-only: normal,0.025927313,0.05185461,No urgent action
+37,Pneumonia,0.99785244,Prediction-only: pneumonia,0.99785244,0.0042951107,Alert
+38,Normal,0.25300258,Prediction-only: normal,0.25300258,0.50600517,No urgent action
+39,Normal,0.88314706,Prediction-only: pneumonia,0.88314706,0.23370588,No urgent action
+40,Pneumonia,0.99990296,Prediction-only: pneumonia,0.99990296,0.00019407272,Alert
+41,Normal,0.018665558,Prediction-only: normal,0.018665558,0.037331104,No urgent action
+42,Normal,0.0052991495,Prediction-only: normal,0.0052991495,0.010598302,No urgent action
+43,Normal,0.016988654,Prediction-only: normal,0.016988654,0.03397733,No urgent action
+44,Normal,0.98983276,Prediction-only: pneumonia,0.98983276,0.020334482,Alert
+45,Pneumonia,0.9999572,Prediction-only: pneumonia,0.9999572,8.559227e-05,Alert
+46,Normal,0.015221807,Prediction-only: normal,0.015221807,0.030443609,No urgent action
+47,Pneumonia,0.9999553,Prediction-only: pneumonia,0.9999553,8.940697e-05,Alert
+48,Pneumonia,0.98292994,Prediction-only: pneumonia,0.98292994,0.03414011,Alert
+49,Pneumonia,0.9995972,Prediction-only: pneumonia,0.9995972,0.0008056164,Alert
+50,Normal,0.10315017,Prediction-only: normal,0.10315017,0.20630032,No urgent action
+51,Pneumonia,0.9988632,Prediction-only: pneumonia,0.9988632,0.0022735596,Alert
+52,Normal,0.031171193,Prediction-only: normal,0.031171193,0.062342405,No urgent action
+53,Pneumonia,0.99863404,Prediction-only: pneumonia,0.99863404,0.0027319193,Alert
+54,Normal,0.005884066,Prediction-only: normal,0.005884066,0.011768103,No urgent action
+55,Normal,0.13438495,Prediction-only: normal,0.13438495,0.26876986,No urgent action
+56,Pneumonia,0.99851936,Prediction-only: pneumonia,0.99851936,0.002961278,Alert
+57,Normal,0.0717893,Prediction-only: normal,0.0717893,0.14357859,No urgent action
+58,Normal,0.056980077,Prediction-only: normal,0.056980077,0.11396015,No urgent action
+59,Pneumonia,0.99969107,Prediction-only: pneumonia,0.99969107,0.00061786175,Alert
+60,Normal,0.0016301468,Prediction-only: normal,0.0016301468,0.0032603145,No urgent action
+61,Normal,0.9449012,Prediction-only: pneumonia,0.9449012,0.110197544,Review
+62,Normal,0.0023778544,Prediction-only: normal,0.0023778544,0.0047557354,No urgent action
+63,Pneumonia,0.9993585,Prediction-only: pneumonia,0.9993585,0.0012830496,Alert
+64,Pneumonia,0.9993641,Prediction-only: pneumonia,0.9993641,0.0012718439,Alert
+65,Pneumonia,0.9995752,Prediction-only: pneumonia,0.9995752,0.0008496046,Alert
+66,Normal,0.033945236,Prediction-only: normal,0.033945236,0.067890465,No urgent action
+67,Normal,0.9996278,Prediction-only: pneumonia,0.9996278,0.0007443428,Alert
+68,Normal,0.4079727,Prediction-only: normal,0.4079727,0.8159454,No urgent action
+69,Normal,0.00043233982,Prediction-only: normal,0.00043233982,0.0008646846,No urgent action
+70,Pneumonia,0.9997341,Prediction-only: pneumonia,0.9997341,0.00053179264,Alert
+71,Normal,0.9992168,Prediction-only: pneumonia,0.9992168,0.0015664101,Alert
+72,Normal,0.8550362,Prediction-only: pneumonia,0.8550362,0.2899276,No urgent action
+73,Pneumonia,0.9973328,Prediction-only: pneumonia,0.9973328,0.0053343773,Alert
+74,Pneumonia,0.9905692,Prediction-only: pneumonia,0.9905692,0.018861651,Alert
+75,Pneumonia,0.99881774,Prediction-only: pneumonia,0.99881774,0.0023645163,Alert
+76,Pneumonia,0.95892864,Prediction-only: pneumonia,0.95892864,0.08214271,Review
+77,Normal,0.596806,Prediction-only: pneumonia,0.596806,0.806388,No urgent action
+78,Normal,0.96582127,Prediction-only: pneumonia,0.96582127,0.06835747,Review
+79,Pneumonia,0.9987471,Prediction-only: pneumonia,0.9987471,0.0025057793,Alert
+80,Pneumonia,0.999762,Prediction-only: pneumonia,0.999762,0.0004760027,Alert
+81,Pneumonia,0.9983077,Prediction-only: pneumonia,0.9983077,0.0033845901,Alert
+82,Pneumonia,0.99766916,Prediction-only: pneumonia,0.99766916,0.0046616793,Alert
+83,Normal,0.009164352,Prediction-only: normal,0.009164352,0.018328726,No urgent action
+84,Normal,0.00078919,Prediction-only: normal,0.00078919,0.0015783906,No urgent action
+85,Normal,0.8657226,Prediction-only: pneumonia,0.8657226,0.2685548,No urgent action
+86,Normal,0.007513763,Prediction-only: normal,0.007513763,0.015027523,No urgent action
+87,Pneumonia,0.99764055,Prediction-only: pneumonia,0.99764055,0.0047188997,Alert
+88,Pneumonia,0.8925027,Prediction-only: pneumonia,0.8925027,0.21499455,No urgent action
+89,Normal,0.002943939,Prediction-only: normal,0.002943939,0.005887866,No urgent action
+90,Pneumonia,0.99980116,Prediction-only: pneumonia,0.99980116,0.0003976822,Alert
+91,Normal,0.9991534,Prediction-only: pneumonia,0.9991534,0.0016932487,Alert
+92,Pneumonia,0.99978936,Prediction-only: pneumonia,0.99978936,0.00042128563,Alert
+93,Normal,0.21837838,Prediction-only: normal,0.21837838,0.43675673,No urgent action
+94,Pneumonia,0.9994406,Prediction-only: pneumonia,0.9994406,0.0011187792,Alert
+95,Pneumonia,0.99982226,Prediction-only: pneumonia,0.99982226,0.0003554821,Alert
+96,Pneumonia,0.9992169,Prediction-only: pneumonia,0.9992169,0.0015661716,Alert
+97,Normal,0.014858742,Prediction-only: normal,0.014858742,0.029717505,No urgent action
+98,Normal,0.008301776,Prediction-only: normal,0.008301776,0.01660353,No urgent action
+99,Pneumonia,0.9979411,Prediction-only: pneumonia,0.9979411,0.0041178465,Alert
+100,Pneumonia,0.99961627,Prediction-only: pneumonia,0.99961627,0.0007674694,Alert
+101,Pneumonia,0.99779487,Prediction-only: pneumonia,0.99779487,0.004410267,Alert
+102,Pneumonia,0.84362346,Prediction-only: pneumonia,0.84362346,0.31275308,No urgent action
+103,Normal,0.999483,Prediction-only: pneumonia,0.999483,0.0010340214,Alert
+104,Pneumonia,0.998831,Prediction-only: pneumonia,0.998831,0.0023380518,Alert
+105,Pneumonia,0.9994863,Prediction-only: pneumonia,0.9994863,0.0010273457,Alert
+106,Normal,0.11616094,Prediction-only: normal,0.11616094,0.23232186,No urgent action
+107,Normal,0.8311552,Prediction-only: pneumonia,0.8311552,0.33768964,No urgent action
+108,Pneumonia,0.99042904,Prediction-only: pneumonia,0.99042904,0.019141912,Alert
+109,Normal,0.5096205,Prediction-only: pneumonia,0.5096205,0.980759,No urgent action
+110,Pneumonia,0.9669886,Prediction-only: pneumonia,0.9669886,0.06602275,Review
+111,Pneumonia,0.99914324,Prediction-only: pneumonia,0.99914324,0.0017135143,Alert
+112,Normal,0.109242834,Prediction-only: normal,0.109242834,0.21848565,No urgent action
+113,Pneumonia,0.9994615,Prediction-only: pneumonia,0.9994615,0.0010770559,Alert
+114,Normal,0.15563585,Prediction-only: normal,0.15563585,0.31127167,No urgent action
+115,Pneumonia,0.9910902,Prediction-only: pneumonia,0.9910902,0.017819643,Alert
+116,Pneumonia,0.9950816,Prediction-only: pneumonia,0.9950816,0.009836793,Alert
+117,Pneumonia,0.9964438,Prediction-only: pneumonia,0.9964438,0.007112384,Alert
+118,Normal,0.49414468,Prediction-only: normal,0.49414468,0.98828936,No urgent action
+119,Normal,0.005572493,Prediction-only: normal,0.005572493,0.011144996,No urgent action
+120,Pneumonia,0.99839264,Prediction-only: pneumonia,0.99839264,0.003214717,Alert
+121,Pneumonia,0.999884,Prediction-only: pneumonia,0.999884,0.00023198128,Alert
+122,Pneumonia,0.9986941,Prediction-only: pneumonia,0.9986941,0.0026117563,Alert
+123,Normal,0.88705504,Prediction-only: pneumonia,0.88705504,0.22588992,No urgent action
+124,Pneumonia,0.9994337,Prediction-only: pneumonia,0.9994337,0.0011326075,Alert
+125,Normal,0.995197,Prediction-only: pneumonia,0.995197,0.009606004,Alert
+126,Normal,0.7102327,Prediction-only: pneumonia,0.7102327,0.57953465,No urgent action
+127,Pneumonia,0.999984,Prediction-only: pneumonia,0.999984,3.194809e-05,Alert
+128,Normal,0.44566026,Prediction-only: normal,0.44566026,0.8913205,No urgent action
+129,Pneumonia,0.994749,Prediction-only: pneumonia,0.994749,0.010501981,Alert
+130,Pneumonia,0.99427193,Prediction-only: pneumonia,0.99427193,0.011456132,Alert
+131,Normal,0.9490375,Prediction-only: pneumonia,0.9490375,0.101925015,Review
+132,Pneumonia,0.99552697,Prediction-only: pneumonia,0.99552697,0.008946061,Alert
+133,Normal,0.8872714,Prediction-only: pneumonia,0.8872714,0.22545719,No urgent action
+134,Pneumonia,0.8805571,Prediction-only: pneumonia,0.8805571,0.23888576,No urgent action
+135,Pneumonia,0.99989855,Prediction-only: pneumonia,0.99989855,0.00020289421,Alert
+136,Normal,0.05680114,Prediction-only: normal,0.05680114,0.11360228,No urgent action
+137,Pneumonia,0.99890137,Prediction-only: pneumonia,0.99890137,0.0021972656,Alert
+138,Pneumonia,0.99805117,Prediction-only: pneumonia,0.99805117,0.003897667,Alert
+139,Normal,0.027045472,Prediction-only: normal,0.027045472,0.054090917,No urgent action
+140,Pneumonia,0.9994842,Prediction-only: pneumonia,0.9994842,0.0010316372,Alert
+141,Pneumonia,0.9566543,Prediction-only: pneumonia,0.9566543,0.08669138,Review
+142,Normal,0.066002205,Prediction-only: normal,0.066002205,0.13200438,No urgent action
+143,Normal,0.0053266264,Prediction-only: normal,0.0053266264,0.010653257,No urgent action
+144,Normal,0.044792958,Prediction-only: normal,0.044792958,0.0895859,No urgent action
+145,Normal,0.036879018,Prediction-only: normal,0.036879018,0.073758006,No urgent action
+146,Normal,0.6729765,Prediction-only: pneumonia,0.6729765,0.654047,No urgent action
+147,Normal,0.9734397,Prediction-only: pneumonia,0.9734397,0.053120613,Review
+148,Pneumonia,0.9477566,Prediction-only: pneumonia,0.9477566,0.10448682,Review
+149,Pneumonia,0.9994523,Prediction-only: pneumonia,0.9994523,0.0010954142,Alert
+150,Normal,0.91216046,Prediction-only: pneumonia,0.91216046,0.17567909,No urgent action
+151,Pneumonia,0.99958825,Prediction-only: pneumonia,0.99958825,0.0008234978,Alert
+152,Normal,0.0023505243,Prediction-only: normal,0.0023505243,0.004701078,No urgent action
+153,Pneumonia,0.98476136,Prediction-only: pneumonia,0.98476136,0.030477285,Alert
+154,Pneumonia,0.99985695,Prediction-only: pneumonia,0.99985695,0.0002861023,Alert
+155,Pneumonia,0.9980788,Prediction-only: pneumonia,0.9980788,0.0038423538,Alert
+156,Pneumonia,0.99909776,Prediction-only: pneumonia,0.99909776,0.001804471,Alert
+157,Pneumonia,0.9992088,Prediction-only: pneumonia,0.9992088,0.0015823841,Alert
+158,Pneumonia,0.9765306,Prediction-only: pneumonia,0.9765306,0.046938777,Review
+159,Pneumonia,0.9999597,Prediction-only: pneumonia,0.9999597,8.058548e-05,Alert
+160,Normal,0.0007038316,Prediction-only: normal,0.0007038316,0.0014076829,No urgent action
+161,Normal,0.9943721,Prediction-only: pneumonia,0.9943721,0.011255741,Alert
+162,Pneumonia,0.99964213,Prediction-only: pneumonia,0.99964213,0.0007157326,Alert
+163,Pneumonia,0.9997688,Prediction-only: pneumonia,0.9997688,0.00046241283,Alert
+164,Normal,0.042712633,Prediction-only: normal,0.042712633,0.08542526,No urgent action
+165,Normal,0.0013722616,Prediction-only: normal,0.0013722616,0.0027444959,No urgent action
+166,Normal,0.2178192,Prediction-only: normal,0.2178192,0.43563843,No urgent action
+167,Pneumonia,0.99908924,Prediction-only: pneumonia,0.99908924,0.001821518,Alert
+168,Pneumonia,0.94891167,Prediction-only: pneumonia,0.94891167,0.102176666,Review
+169,Pneumonia,0.99345726,Prediction-only: pneumonia,0.99345726,0.0130854845,Alert
+170,Pneumonia,0.99972826,Prediction-only: pneumonia,0.99972826,0.00054347515,Alert
+171,Pneumonia,0.99850106,Prediction-only: pneumonia,0.99850106,0.0029978752,Alert
+172,Pneumonia,0.9988864,Prediction-only: pneumonia,0.9988864,0.0022271872,Alert
+173,Pneumonia,0.9989833,Prediction-only: pneumonia,0.9989833,0.0020333529,Alert
+174,Normal,0.1142217,Prediction-only: normal,0.1142217,0.22844338,No urgent action
+175,Pneumonia,0.9999132,Prediction-only: pneumonia,0.9999132,0.00017356873,Alert
+176,Pneumonia,0.92773277,Prediction-only: pneumonia,0.92773277,0.14453447,No urgent action
+177,Normal,0.09455861,Prediction-only: normal,0.09455861,0.1891172,No urgent action
+178,Pneumonia,0.9999014,Prediction-only: pneumonia,0.9999014,0.00019717216,Alert
+179,Normal,0.88604677,Prediction-only: pneumonia,0.88604677,0.22790647,No urgent action
+180,Pneumonia,0.79783064,Prediction-only: pneumonia,0.79783064,0.40433872,No urgent action
+181,Pneumonia,0.99957865,Prediction-only: pneumonia,0.99957865,0.00084269047,Alert
+182,Pneumonia,0.98792785,Prediction-only: pneumonia,0.98792785,0.024144292,Alert
+183,Pneumonia,0.9995826,Prediction-only: pneumonia,0.9995826,0.00083482265,Alert
+184,Pneumonia,0.9997687,Prediction-only: pneumonia,0.9997687,0.00046265125,Alert
+185,Normal,0.9519945,Prediction-only: pneumonia,0.9519945,0.09601104,Review
+186,Normal,0.009098531,Prediction-only: normal,0.009098531,0.01819706,No urgent action
+187,Normal,0.09127599,Prediction-only: normal,0.09127599,0.18255198,No urgent action
+188,Pneumonia,0.9997547,Prediction-only: pneumonia,0.9997547,0.0004905462,Alert
+189,Normal,0.16506022,Prediction-only: normal,0.16506022,0.33012044,No urgent action
+190,Pneumonia,0.9963241,Prediction-only: pneumonia,0.9963241,0.007351756,Alert
+191,Normal,0.023442645,Prediction-only: normal,0.023442645,0.04688531,No urgent action
+192,Pneumonia,0.99796104,Prediction-only: pneumonia,0.99796104,0.0040779114,Alert
+193,Pneumonia,0.99789524,Prediction-only: pneumonia,0.99789524,0.0042095184,Alert
+194,Normal,0.014330348,Prediction-only: normal,0.014330348,0.028660715,No urgent action
+195,Normal,0.9932706,Prediction-only: pneumonia,0.9932706,0.013458848,Alert
+196,Pneumonia,0.9959228,Prediction-only: pneumonia,0.9959228,0.008154392,Alert
+197,Pneumonia,0.9993517,Prediction-only: pneumonia,0.9993517,0.0012966394,Alert
+198,Pneumonia,0.99992466,Prediction-only: pneumonia,0.99992466,0.00015068054,Alert
+199,Normal,0.599053,Prediction-only: pneumonia,0.599053,0.80189395,No urgent action
+200,Pneumonia,0.9837645,Prediction-only: pneumonia,0.9837645,0.03247094,Alert
+201,Pneumonia,0.818247,Prediction-only: pneumonia,0.818247,0.36350596,No urgent action
+202,Pneumonia,0.9958755,Prediction-only: pneumonia,0.9958755,0.008249044,Alert
+203,Pneumonia,0.99567753,Prediction-only: pneumonia,0.99567753,0.0086449385,Alert
+204,Pneumonia,0.9862486,Prediction-only: pneumonia,0.9862486,0.027502775,Alert
+205,Pneumonia,0.9985013,Prediction-only: pneumonia,0.9985013,0.0029973984,Alert
+206,Pneumonia,0.99781907,Prediction-only: pneumonia,0.99781907,0.004361868,Alert
+207,Pneumonia,0.99989164,Prediction-only: pneumonia,0.99989164,0.00021672249,Alert
+208,Normal,0.57720816,Prediction-only: pneumonia,0.57720816,0.8455837,No urgent action
+209,Pneumonia,0.9917516,Prediction-only: pneumonia,0.9917516,0.016496778,Alert
+210,Normal,0.073002405,Prediction-only: normal,0.073002405,0.1460048,No urgent action
+211,Pneumonia,0.9971119,Prediction-only: pneumonia,0.9971119,0.005776167,Alert
+212,Pneumonia,0.9998429,Prediction-only: pneumonia,0.9998429,0.0003142357,Alert
+213,Pneumonia,0.99739456,Prediction-only: pneumonia,0.99739456,0.0052108765,Alert
+214,Pneumonia,0.99991596,Prediction-only: pneumonia,0.99991596,0.0001680851,Alert
+215,Pneumonia,0.99998724,Prediction-only: pneumonia,0.99998724,2.5510788e-05,Alert
+216,Pneumonia,0.9969054,Prediction-only: pneumonia,0.9969054,0.006189227,Alert
+217,Normal,0.14212179,Prediction-only: normal,0.14212179,0.28424358,No urgent action
+218,Pneumonia,0.9998417,Prediction-only: pneumonia,0.9998417,0.00031661987,Alert
+219,Pneumonia,0.99886274,Prediction-only: pneumonia,0.99886274,0.0022745132,Alert
+220,Normal,0.03325715,Prediction-only: normal,0.03325715,0.06651431,No urgent action
+221,Normal,0.7085493,Prediction-only: pneumonia,0.7085493,0.58290136,No urgent action
+222,Normal,0.016672894,Prediction-only: normal,0.016672894,0.03334582,No urgent action
+223,Pneumonia,0.99520546,Prediction-only: pneumonia,0.99520546,0.009589076,Alert
+224,Normal,0.021695346,Prediction-only: normal,0.021695346,0.04339069,No urgent action
+225,Pneumonia,0.9997559,Prediction-only: pneumonia,0.9997559,0.00048816204,Alert
+226,Normal,0.2659151,Prediction-only: normal,0.2659151,0.5318302,No urgent action
+227,Pneumonia,0.9999269,Prediction-only: pneumonia,0.9999269,0.00014615059,Alert
+228,Pneumonia,0.9994424,Prediction-only: pneumonia,0.9994424,0.0011152029,Alert
+229,Normal,0.9735407,Prediction-only: pneumonia,0.9735407,0.052918553,Review
+230,Pneumonia,0.9998021,Prediction-only: pneumonia,0.9998021,0.00039577484,Alert
+231,Normal,0.39392278,Prediction-only: normal,0.39392278,0.78784555,No urgent action
+232,Normal,0.9715209,Prediction-only: pneumonia,0.9715209,0.0569582,Review
+233,Pneumonia,0.99945563,Prediction-only: pneumonia,0.99945563,0.0010887384,Alert
+234,Normal,0.39678547,Prediction-only: normal,0.39678547,0.79357094,No urgent action
+235,Pneumonia,0.99990976,Prediction-only: pneumonia,0.99990976,0.00018048286,Alert
+236,Normal,0.026547743,Prediction-only: normal,0.026547743,0.05309546,No urgent action
+237,Normal,0.45102128,Prediction-only: normal,0.45102128,0.90204257,No urgent action
+238,Pneumonia,0.99763155,Prediction-only: pneumonia,0.99763155,0.0047369003,Alert
+239,Normal,0.7410922,Prediction-only: pneumonia,0.7410922,0.5178156,No urgent action
+240,Normal,0.007923618,Prediction-only: normal,0.007923618,0.015847206,No urgent action
+241,Pneumonia,0.99677795,Prediction-only: pneumonia,0.99677795,0.0064440966,Alert
+242,Pneumonia,0.9662787,Prediction-only: pneumonia,0.9662787,0.067442656,Review
+243,Normal,0.09756508,Prediction-only: normal,0.09756508,0.19513017,No urgent action
+244,Pneumonia,0.99159664,Prediction-only: pneumonia,0.99159664,0.016806722,Alert
+245,Pneumonia,0.9988859,Prediction-only: pneumonia,0.9988859,0.0022281408,Alert
+246,Pneumonia,0.99423164,Prediction-only: pneumonia,0.99423164,0.011536717,Alert
+247,Pneumonia,0.99921393,Prediction-only: pneumonia,0.99921393,0.0015721321,Alert
+248,Pneumonia,0.8988822,Prediction-only: pneumonia,0.8988822,0.20223558,No urgent action
+249,Pneumonia,0.9997619,Prediction-only: pneumonia,0.9997619,0.0004762411,Alert
+250,Pneumonia,0.9985563,Prediction-only: pneumonia,0.9985563,0.0028873682,Alert
+251,Normal,0.0006318899,Prediction-only: normal,0.0006318899,0.0012637973,No urgent action
+252,Pneumonia,0.9997663,Prediction-only: pneumonia,0.9997663,0.00046741962,Alert
+253,Pneumonia,0.9983382,Prediction-only: pneumonia,0.9983382,0.003323555,Alert
+254,Pneumonia,0.93569213,Prediction-only: pneumonia,0.93569213,0.12861574,Review
+255,Normal,0.4687754,Prediction-only: normal,0.4687754,0.9375508,No urgent action
+256,Pneumonia,0.9999765,Prediction-only: pneumonia,0.9999765,4.696846e-05,Alert
+257,Pneumonia,0.9990845,Prediction-only: pneumonia,0.9990845,0.0018310547,Alert
+258,Normal,0.22995284,Prediction-only: normal,0.22995284,0.45990568,No urgent action
+259,Normal,0.0593701,Prediction-only: normal,0.0593701,0.1187402,No urgent action
+260,Pneumonia,0.9992421,Prediction-only: pneumonia,0.9992421,0.0015157461,Alert
+261,Pneumonia,0.9962708,Prediction-only: pneumonia,0.9962708,0.0074584484,Alert
+262,Pneumonia,0.97235096,Prediction-only: pneumonia,0.97235096,0.05529809,Review
+263,Pneumonia,0.9986261,Prediction-only: pneumonia,0.9986261,0.0027477741,Alert
+264,Normal,0.047854733,Prediction-only: normal,0.047854733,0.09570944,No urgent action
+265,Pneumonia,0.9977284,Prediction-only: pneumonia,0.9977284,0.0045431852,Alert
+266,Normal,0.0012963889,Prediction-only: normal,0.0012963889,0.002592802,No urgent action
+267,Normal,0.47892112,Prediction-only: normal,0.47892112,0.95784223,No urgent action
+268,Pneumonia,0.9998003,Prediction-only: pneumonia,0.9998003,0.00039935112,Alert
+269,Pneumonia,0.99954945,Prediction-only: pneumonia,0.99954945,0.000901103,Alert
+270,Pneumonia,0.9983462,Prediction-only: pneumonia,0.9983462,0.003307581,Alert
+271,Pneumonia,0.99952954,Prediction-only: pneumonia,0.99952954,0.0009409189,Alert
+272,Pneumonia,0.99994683,Prediction-only: pneumonia,0.99994683,0.000106334686,Alert
+273,Normal,0.8822996,Prediction-only: pneumonia,0.8822996,0.2354008,No urgent action
+274,Pneumonia,0.9898934,Prediction-only: pneumonia,0.9898934,0.020213246,Alert
+275,Pneumonia,0.9944412,Prediction-only: pneumonia,0.9944412,0.011117578,Alert
+276,Pneumonia,0.99930036,Prediction-only: pneumonia,0.99930036,0.0013992786,Alert
+277,Pneumonia,0.9999689,Prediction-only: pneumonia,0.9999689,6.222725e-05,Alert
+278,Normal,0.561747,Prediction-only: pneumonia,0.561747,0.876506,No urgent action
+279,Pneumonia,0.9991297,Prediction-only: pneumonia,0.9991297,0.0017405748,Alert
+280,Normal,0.80368155,Prediction-only: pneumonia,0.80368155,0.3926369,No urgent action
+281,Normal,0.10062037,Prediction-only: normal,0.10062037,0.20124072,No urgent action
+282,Normal,0.87703013,Prediction-only: pneumonia,0.87703013,0.24593973,No urgent action
+283,Pneumonia,0.99979997,Prediction-only: pneumonia,0.99979997,0.00040006638,Alert
+284,Pneumonia,0.9967449,Prediction-only: pneumonia,0.9967449,0.0065102577,Alert
+285,Normal,0.4454442,Prediction-only: normal,0.4454442,0.8908884,No urgent action
+286,Pneumonia,0.99993,Prediction-only: pneumonia,0.99993,0.0001399517,Alert
+287,Pneumonia,0.9995022,Prediction-only: pneumonia,0.9995022,0.000995636,Alert
+288,Pneumonia,0.9985196,Prediction-only: pneumonia,0.9985196,0.0029608011,Alert
+289,Pneumonia,0.9962633,Prediction-only: pneumonia,0.9962633,0.0074733496,Alert
+290,Normal,0.27795887,Prediction-only: normal,0.27795887,0.55591774,No urgent action
+291,Pneumonia,0.9995042,Prediction-only: pneumonia,0.9995042,0.0009915829,Alert
+292,Normal,0.28242126,Prediction-only: normal,0.28242126,0.5648425,No urgent action
+293,Normal,0.39870164,Prediction-only: normal,0.39870164,0.7974033,No urgent action
+294,Pneumonia,0.99998295,Prediction-only: pneumonia,0.99998295,3.4093857e-05,Alert
+295,Pneumonia,0.999884,Prediction-only: pneumonia,0.999884,0.00023198128,Alert
+296,Pneumonia,0.9992193,Prediction-only: pneumonia,0.9992193,0.0015614033,Alert
+297,Normal,0.00034435285,Prediction-only: normal,0.00034435285,0.00068873167,No urgent action
+298,Pneumonia,0.9800838,Prediction-only: pneumonia,0.9800838,0.039832354,Alert
+299,Pneumonia,0.99884015,Prediction-only: pneumonia,0.99884015,0.0023196936,Alert
+300,Pneumonia,0.9997897,Prediction-only: pneumonia,0.9997897,0.00042057037,Alert
+301,Pneumonia,0.9997322,Prediction-only: pneumonia,0.9997322,0.00053560734,Alert
+302,Pneumonia,0.99993384,Prediction-only: pneumonia,0.99993384,0.00013232231,Alert
+303,Pneumonia,0.9817638,Prediction-only: pneumonia,0.9817638,0.03647244,Alert
+304,Pneumonia,0.99908483,Prediction-only: pneumonia,0.99908483,0.0018303394,Alert
+305,Pneumonia,0.99823904,Prediction-only: pneumonia,0.99823904,0.0035219193,Alert
+306,Pneumonia,0.9999083,Prediction-only: pneumonia,0.9999083,0.00018334389,Alert
+307,Normal,0.9969066,Prediction-only: pneumonia,0.9969066,0.006186843,Alert
+308,Pneumonia,0.9998195,Prediction-only: pneumonia,0.9998195,0.00036096573,Alert
+309,Normal,0.5434942,Prediction-only: pneumonia,0.5434942,0.91301155,No urgent action
+310,Normal,0.0006065331,Prediction-only: normal,0.0006065331,0.0012130737,No urgent action
+311,Pneumonia,0.99972826,Prediction-only: pneumonia,0.99972826,0.00054347515,Alert
+312,Normal,0.8213379,Prediction-only: pneumonia,0.8213379,0.35732424,No urgent action
+313,Normal,0.2435599,Prediction-only: normal,0.2435599,0.4871198,No urgent action
+314,Pneumonia,0.9984445,Prediction-only: pneumonia,0.9984445,0.0031110048,Alert
+315,Pneumonia,0.99926406,Prediction-only: pneumonia,0.99926406,0.0014718771,Alert
+316,Pneumonia,0.9999349,Prediction-only: pneumonia,0.9999349,0.00013017654,Alert
+317,Normal,0.742464,Prediction-only: pneumonia,0.742464,0.515072,No urgent action
+318,Pneumonia,0.9982065,Prediction-only: pneumonia,0.9982065,0.0035870075,Alert
+319,Normal,0.0010358711,Prediction-only: normal,0.0010358711,0.0020717382,No urgent action
+320,Pneumonia,0.99042976,Prediction-only: pneumonia,0.99042976,0.019140482,Alert
+321,Pneumonia,0.99989057,Prediction-only: pneumonia,0.99989057,0.00021886826,Alert
+322,Pneumonia,0.9990644,Prediction-only: pneumonia,0.9990644,0.0018712282,Alert
+323,Normal,0.007954398,Prediction-only: normal,0.007954398,0.015908778,No urgent action
+324,Pneumonia,0.99052286,Prediction-only: pneumonia,0.99052286,0.018954277,Alert
+325,Pneumonia,0.99662256,Prediction-only: pneumonia,0.99662256,0.006754875,Alert
+326,Pneumonia,0.994999,Prediction-only: pneumonia,0.994999,0.010002017,Alert
+327,Pneumonia,0.99997103,Prediction-only: pneumonia,0.99997103,5.7935715e-05,Alert
+328,Pneumonia,0.9988865,Prediction-only: pneumonia,0.9988865,0.0022269487,Alert
+329,Pneumonia,0.99977505,Prediction-only: pneumonia,0.99977505,0.00044989586,Alert
+330,Normal,0.07893408,Prediction-only: normal,0.07893408,0.15786815,No urgent action
+331,Pneumonia,0.99982345,Prediction-only: pneumonia,0.99982345,0.00035309792,Alert
+332,Normal,0.9011351,Prediction-only: pneumonia,0.9011351,0.19772983,No urgent action
+333,Pneumonia,0.99874014,Prediction-only: pneumonia,0.99874014,0.0025197268,Alert
+334,Pneumonia,0.9948357,Prediction-only: pneumonia,0.9948357,0.0103286505,Alert
+335,Pneumonia,0.9994479,Prediction-only: pneumonia,0.9994479,0.0011042356,Alert
+336,Pneumonia,0.99978006,Prediction-only: pneumonia,0.99978006,0.00043988228,Alert
+337,Pneumonia,0.99930835,Prediction-only: pneumonia,0.99930835,0.0013833046,Alert
+338,Normal,0.73310447,Prediction-only: pneumonia,0.73310447,0.53379107,No urgent action
+339,Normal,0.8719911,Prediction-only: pneumonia,0.8719911,0.2560178,No urgent action
+340,Pneumonia,0.99967474,Prediction-only: pneumonia,0.99967474,0.0006505251,Alert
+341,Pneumonia,0.9998256,Prediction-only: pneumonia,0.9998256,0.00034880638,Alert
+342,Pneumonia,0.9999795,Prediction-only: pneumonia,0.9999795,4.1007996e-05,Alert
+343,Pneumonia,0.99959767,Prediction-only: pneumonia,0.99959767,0.0008046627,Alert
+344,Pneumonia,0.9968245,Prediction-only: pneumonia,0.9968245,0.006350994,Alert
+345,Normal,0.50469726,Prediction-only: pneumonia,0.50469726,0.9906055,No urgent action
+346,Pneumonia,0.999809,Prediction-only: pneumonia,0.999809,0.00038194656,Alert
+347,Pneumonia,0.99979424,Prediction-only: pneumonia,0.99979424,0.00041151047,Alert
+348,Pneumonia,0.999889,Prediction-only: pneumonia,0.999889,0.0002219677,Alert
+349,Normal,0.34058365,Prediction-only: normal,0.34058365,0.6811673,No urgent action
+350,Normal,0.17168401,Prediction-only: normal,0.17168401,0.34336805,No urgent action
+351,Pneumonia,0.999747,Prediction-only: pneumonia,0.999747,0.00050604343,Alert
+352,Pneumonia,0.9995857,Prediction-only: pneumonia,0.9995857,0.0008286238,Alert
+353,Normal,0.00062515575,Prediction-only: normal,0.00062515575,0.0012503266,No urgent action
+354,Normal,0.0044226404,Prediction-only: normal,0.0044226404,0.00884527,No urgent action
+355,Pneumonia,0.99905366,Prediction-only: pneumonia,0.99905366,0.0018926859,Alert
+356,Normal,0.987377,Prediction-only: pneumonia,0.987377,0.025246024,Alert
+357,Normal,0.025244953,Prediction-only: normal,0.025244953,0.050489902,No urgent action
+358,Pneumonia,0.9998083,Prediction-only: pneumonia,0.9998083,0.00038337708,Alert
+359,Pneumonia,0.9874565,Prediction-only: pneumonia,0.9874565,0.025086999,Alert
+360,Pneumonia,0.99883455,Prediction-only: pneumonia,0.99883455,0.0023308992,Alert
+361,Pneumonia,0.99998367,Prediction-only: pneumonia,0.99998367,3.2663345e-05,Alert
+362,Pneumonia,0.9999448,Prediction-only: pneumonia,0.9999448,0.0001103878,Alert
+363,Pneumonia,0.9998195,Prediction-only: pneumonia,0.9998195,0.00036096573,Alert
+364,Pneumonia,0.99987483,Prediction-only: pneumonia,0.99987483,0.0002503395,Alert
+365,Normal,0.018241672,Prediction-only: normal,0.018241672,0.036483347,No urgent action
+366,Pneumonia,0.99969083,Prediction-only: pneumonia,0.99969083,0.0006183386,Alert
+367,Normal,0.0039713364,Prediction-only: normal,0.0039713364,0.007942677,No urgent action
+368,Normal,0.9459252,Prediction-only: pneumonia,0.9459252,0.10814965,Review
+369,Pneumonia,0.996675,Prediction-only: pneumonia,0.996675,0.006649971,Alert
+370,Normal,0.9994598,Prediction-only: pneumonia,0.9994598,0.0010803938,Alert
+371,Pneumonia,0.9984657,Prediction-only: pneumonia,0.9984657,0.0030685663,Alert
+372,Normal,0.021663906,Prediction-only: normal,0.021663906,0.04332781,No urgent action
+373,Pneumonia,0.9983552,Prediction-only: pneumonia,0.9983552,0.0032895803,Alert
+374,Pneumonia,0.99215686,Prediction-only: pneumonia,0.99215686,0.015686274,Alert
+375,Normal,0.013630193,Prediction-only: normal,0.013630193,0.027260363,No urgent action
+376,Normal,0.0019092289,Prediction-only: normal,0.0019092289,0.0038184524,No urgent action
+377,Normal,0.97487473,Prediction-only: pneumonia,0.97487473,0.05025053,Review
+378,Normal,0.9471946,Prediction-only: pneumonia,0.9471946,0.10561085,Review
+379,Pneumonia,0.99441516,Prediction-only: pneumonia,0.99441516,0.011169672,Alert
+380,Normal,0.9994694,Prediction-only: pneumonia,0.9994694,0.0010612011,Alert
+381,Pneumonia,0.6408871,Prediction-only: pneumonia,0.6408871,0.71822584,No urgent action
+382,Normal,0.0026110762,Prediction-only: normal,0.0026110762,0.0052221417,No urgent action
+383,Pneumonia,0.99759585,Prediction-only: pneumonia,0.99759585,0.0048083067,Alert
+384,Normal,0.02301515,Prediction-only: normal,0.02301515,0.046030283,No urgent action
+385,Normal,0.00061743305,Prediction-only: normal,0.00061743305,0.001234889,No urgent action
+386,Normal,0.98877466,Prediction-only: pneumonia,0.98877466,0.022450686,Alert
+387,Pneumonia,0.9990078,Prediction-only: pneumonia,0.9990078,0.0019843578,Alert
+388,Pneumonia,0.9996593,Prediction-only: pneumonia,0.9996593,0.0006814003,Alert
+389,Pneumonia,0.9895706,Prediction-only: pneumonia,0.9895706,0.020858765,Alert
+390,Normal,0.045011893,Prediction-only: normal,0.045011893,0.090023756,No urgent action
+391,Normal,0.19038199,Prediction-only: normal,0.19038199,0.380764,No urgent action
+392,Normal,0.011702154,Prediction-only: normal,0.011702154,0.0234043,No urgent action
+393,Pneumonia,0.99296474,Prediction-only: pneumonia,0.99296474,0.014070511,Alert
+394,Normal,0.8526837,Prediction-only: pneumonia,0.8526837,0.29463255,No urgent action
+395,Pneumonia,0.9999269,Prediction-only: pneumonia,0.9999269,0.00014615059,Alert
+396,Normal,0.0048342934,Prediction-only: normal,0.0048342934,0.009668589,No urgent action
+397,Pneumonia,0.9994104,Prediction-only: pneumonia,0.9994104,0.0011792183,Alert
+398,Normal,0.572287,Prediction-only: pneumonia,0.572287,0.85542595,No urgent action
+399,Pneumonia,0.9459087,Prediction-only: pneumonia,0.9459087,0.10818255,Review
+400,Pneumonia,0.9934823,Prediction-only: pneumonia,0.9934823,0.013035417,Alert
+401,Pneumonia,0.99993384,Prediction-only: pneumonia,0.99993384,0.00013232231,Alert
+402,Pneumonia,0.999619,Prediction-only: pneumonia,0.999619,0.0007619858,Alert
+403,Pneumonia,0.99212646,Prediction-only: pneumonia,0.99212646,0.01574707,Alert
+404,Pneumonia,0.9965934,Prediction-only: pneumonia,0.9965934,0.0068131685,Alert
+405,Pneumonia,0.9999186,Prediction-only: pneumonia,0.9999186,0.00016283989,Alert
+406,Pneumonia,0.9991192,Prediction-only: pneumonia,0.9991192,0.0017615557,Alert
+407,Pneumonia,0.9998379,Prediction-only: pneumonia,0.9998379,0.00032424927,Alert
+408,Normal,0.0013366019,Prediction-only: normal,0.0013366019,0.0026732087,No urgent action
+409,Pneumonia,0.9994274,Prediction-only: pneumonia,0.9994274,0.0011452436,Alert
+410,Normal,0.4244275,Prediction-only: normal,0.4244275,0.848855,No urgent action
+411,Normal,0.62863445,Prediction-only: pneumonia,0.62863445,0.7427311,No urgent action
+412,Normal,0.0077968277,Prediction-only: normal,0.0077968277,0.015593648,No urgent action
+413,Pneumonia,0.8910373,Prediction-only: pneumonia,0.8910373,0.21792543,No urgent action
+414,Normal,0.6986577,Prediction-only: pneumonia,0.6986577,0.6026846,No urgent action
+415,Pneumonia,0.99530077,Prediction-only: pneumonia,0.99530077,0.00939846,Alert
+416,Pneumonia,0.9994237,Prediction-only: pneumonia,0.9994237,0.0011526346,Alert
+417,Pneumonia,0.9998995,Prediction-only: pneumonia,0.9998995,0.00020098686,Alert
+418,Pneumonia,0.99990606,Prediction-only: pneumonia,0.99990606,0.00018787384,Alert
+419,Pneumonia,0.9987072,Prediction-only: pneumonia,0.9987072,0.0025856495,Alert
+420,Pneumonia,0.9998956,Prediction-only: pneumonia,0.9998956,0.00020885468,Alert
+421,Pneumonia,0.99990785,Prediction-only: pneumonia,0.99990785,0.00018429756,Alert
+422,Pneumonia,0.99847966,Prediction-only: pneumonia,0.99847966,0.0030406713,Alert
+423,Normal,0.99051243,Prediction-only: pneumonia,0.99051243,0.018975139,Alert
+424,Pneumonia,0.99992204,Prediction-only: pneumonia,0.99992204,0.00015592575,Alert
+425,Pneumonia,0.9998075,Prediction-only: pneumonia,0.9998075,0.000385046,Alert
+426,Pneumonia,0.99935156,Prediction-only: pneumonia,0.99935156,0.0012968779,Alert
+427,Pneumonia,0.99891734,Prediction-only: pneumonia,0.99891734,0.0021653175,Alert
+428,Normal,0.71481144,Prediction-only: pneumonia,0.71481144,0.5703771,No urgent action
+429,Normal,0.03570554,Prediction-only: normal,0.03570554,0.07141107,No urgent action
+430,Normal,0.0016934888,Prediction-only: normal,0.0016934888,0.0033869743,No urgent action
+431,Pneumonia,0.9996226,Prediction-only: pneumonia,0.9996226,0.0007548332,Alert
+432,Pneumonia,0.9997371,Prediction-only: pneumonia,0.9997371,0.0005258322,Alert
+433,Normal,0.002402573,Prediction-only: normal,0.002402573,0.0048051476,No urgent action
+434,Pneumonia,0.98514265,Prediction-only: pneumonia,0.98514265,0.029714704,Alert
+435,Pneumonia,0.99928236,Prediction-only: pneumonia,0.99928236,0.0014352798,Alert
+436,Pneumonia,0.9981042,Prediction-only: pneumonia,0.9981042,0.0037915707,Alert
+437,Pneumonia,0.99588,Prediction-only: pneumonia,0.99588,0.0082399845,Alert
+438,Pneumonia,0.9952181,Prediction-only: pneumonia,0.9952181,0.009563804,Alert
+439,Pneumonia,0.9988525,Prediction-only: pneumonia,0.9988525,0.0022950172,Alert
+440,Pneumonia,0.9984908,Prediction-only: pneumonia,0.9984908,0.0030183792,Alert
+441,Normal,0.45483276,Prediction-only: normal,0.45483276,0.9096655,No urgent action
+442,Pneumonia,0.99945956,Prediction-only: pneumonia,0.99945956,0.0010808706,Alert
+443,Pneumonia,0.999949,Prediction-only: pneumonia,0.999949,0.00010204315,Alert
+444,Normal,0.0263598,Prediction-only: normal,0.0263598,0.052719593,No urgent action
+445,Pneumonia,0.9930581,Prediction-only: pneumonia,0.9930581,0.013883829,Alert
+446,Normal,0.8312713,Prediction-only: pneumonia,0.8312713,0.33745742,No urgent action
+447,Pneumonia,0.96852833,Prediction-only: pneumonia,0.96852833,0.06294334,Review
+448,Normal,0.05092921,Prediction-only: normal,0.05092921,0.10185844,No urgent action
+449,Pneumonia,0.9997866,Prediction-only: pneumonia,0.9997866,0.00042676926,Alert
+450,Normal,0.030583724,Prediction-only: normal,0.030583724,0.06116748,No urgent action
+451,Pneumonia,0.99828124,Prediction-only: pneumonia,0.99828124,0.003437519,Alert
+452,Pneumonia,0.99963677,Prediction-only: pneumonia,0.99963677,0.0007264614,Alert
+453,Pneumonia,0.9938606,Prediction-only: pneumonia,0.9938606,0.012278795,Alert
+454,Pneumonia,0.9995745,Prediction-only: pneumonia,0.9995745,0.0008510351,Alert
+455,Pneumonia,0.9501717,Prediction-only: pneumonia,0.9501717,0.09965658,Review
+456,Normal,0.59564495,Prediction-only: pneumonia,0.59564495,0.8087101,No urgent action
+457,Normal,0.91993123,Prediction-only: pneumonia,0.91993123,0.16013753,No urgent action
+458,Pneumonia,0.9999583,Prediction-only: pneumonia,0.9999583,8.34465e-05,Alert
+459,Pneumonia,0.99990785,Prediction-only: pneumonia,0.99990785,0.00018429756,Alert
+460,Normal,0.010579904,Prediction-only: normal,0.010579904,0.021159828,No urgent action
+461,Pneumonia,0.97521067,Prediction-only: pneumonia,0.97521067,0.049578667,Review
+462,Pneumonia,0.99978006,Prediction-only: pneumonia,0.99978006,0.00043988228,Alert
+463,Normal,0.39338988,Prediction-only: normal,0.39338988,0.78677976,No urgent action
+464,Pneumonia,0.9999064,Prediction-only: pneumonia,0.9999064,0.00018715858,Alert
+465,Pneumonia,0.9994017,Prediction-only: pneumonia,0.9994017,0.0011966228,Alert
+466,Pneumonia,0.99790514,Prediction-only: pneumonia,0.99790514,0.0041897297,Alert
+467,Pneumonia,0.99044776,Prediction-only: pneumonia,0.99044776,0.01910448,Alert
+468,Pneumonia,0.99950814,Prediction-only: pneumonia,0.99950814,0.000983715,Alert
+469,Normal,0.7151321,Prediction-only: pneumonia,0.7151321,0.56973577,No urgent action
+470,Normal,0.39440724,Prediction-only: normal,0.39440724,0.7888145,No urgent action
+471,Normal,0.36113623,Prediction-only: normal,0.36113623,0.72227246,No urgent action
+472,Normal,0.00043406407,Prediction-only: normal,0.00043406407,0.00086814165,No urgent action
+473,Normal,0.78448296,Prediction-only: pneumonia,0.78448296,0.4310341,No urgent action
+474,Pneumonia,0.9999882,Prediction-only: pneumonia,0.9999882,2.360344e-05,Alert
+475,Normal,0.0011773384,Prediction-only: normal,0.0011773384,0.0023546815,No urgent action
+476,Normal,0.98754764,Prediction-only: pneumonia,0.98754764,0.024904728,Alert
+477,Pneumonia,0.99981594,Prediction-only: pneumonia,0.99981594,0.0003681183,Alert
+478,Pneumonia,0.99873,Prediction-only: pneumonia,0.99873,0.0025399923,Alert
+479,Pneumonia,0.99953943,Prediction-only: pneumonia,0.99953943,0.0009211302,Alert
+480,Pneumonia,0.99957067,Prediction-only: pneumonia,0.99957067,0.0008586645,Alert
+481,Normal,0.34614867,Prediction-only: normal,0.34614867,0.69229734,No urgent action
+482,Normal,0.0016234153,Prediction-only: normal,0.0016234153,0.0032468438,No urgent action
+483,Normal,0.0019135899,Prediction-only: normal,0.0019135899,0.0038271546,No urgent action
+484,Normal,0.105586514,Prediction-only: normal,0.105586514,0.21117306,No urgent action
+485,Normal,0.9400321,Prediction-only: pneumonia,0.9400321,0.11993575,Review
+486,Pneumonia,0.9998286,Prediction-only: pneumonia,0.9998286,0.00034284592,Alert
+487,Normal,0.6966041,Prediction-only: pneumonia,0.6966041,0.60679185,No urgent action
+488,Pneumonia,0.9815159,Prediction-only: pneumonia,0.9815159,0.03696823,Alert
+489,Pneumonia,0.99988997,Prediction-only: pneumonia,0.99988997,0.00022006035,Alert
+490,Pneumonia,0.99388134,Prediction-only: pneumonia,0.99388134,0.01223731,Alert
+491,Pneumonia,0.9918617,Prediction-only: pneumonia,0.9918617,0.016276598,Alert
+492,Normal,0.47883856,Prediction-only: normal,0.47883856,0.9576771,No urgent action
+493,Pneumonia,0.9999465,Prediction-only: pneumonia,0.9999465,0.00010704994,Alert
+494,Pneumonia,0.998467,Prediction-only: pneumonia,0.998467,0.0030659437,Alert
+495,Pneumonia,0.98608816,Prediction-only: pneumonia,0.98608816,0.027823687,Alert
+496,Normal,0.018078974,Prediction-only: normal,0.018078974,0.036157966,No urgent action
+497,Pneumonia,0.99502724,Prediction-only: pneumonia,0.99502724,0.009945512,Alert
+498,Pneumonia,0.96332,Prediction-only: pneumonia,0.96332,0.07335997,Review
+499,Pneumonia,0.9997891,Prediction-only: pneumonia,0.9997891,0.00042176247,Alert
+500,Pneumonia,0.9996517,Prediction-only: pneumonia,0.9996517,0.0006966591,Alert
+501,Normal,0.1785837,Prediction-only: normal,0.1785837,0.35716736,No urgent action
+502,Normal,0.17001411,Prediction-only: normal,0.17001411,0.34002823,No urgent action
+503,Pneumonia,0.9999287,Prediction-only: pneumonia,0.9999287,0.00014257431,Alert
+504,Pneumonia,0.9998851,Prediction-only: pneumonia,0.9998851,0.00022983551,Alert
+505,Normal,0.9968754,Prediction-only: pneumonia,0.9968754,0.0062491894,Alert
+506,Pneumonia,0.9998566,Prediction-only: pneumonia,0.9998566,0.00028681755,Alert
+507,Pneumonia,0.99974126,Prediction-only: pneumonia,0.99974126,0.0005174875,Alert
+508,Normal,0.03600633,Prediction-only: normal,0.03600633,0.07201266,No urgent action
+509,Pneumonia,0.999835,Prediction-only: pneumonia,0.999835,0.0003299713,Alert
+510,Normal,0.99772054,Prediction-only: pneumonia,0.99772054,0.004558921,Alert
+511,Normal,0.00014411344,Prediction-only: normal,0.00014411344,0.00028824806,No urgent action
+512,Pneumonia,0.99988556,Prediction-only: pneumonia,0.99988556,0.00022888184,Alert
+513,Pneumonia,0.9986941,Prediction-only: pneumonia,0.9986941,0.0026117563,Alert
+514,Normal,0.83803165,Prediction-only: pneumonia,0.83803165,0.3239367,No urgent action
+515,Normal,0.001198875,Prediction-only: normal,0.001198875,0.0023977757,No urgent action
+516,Pneumonia,0.99969214,Prediction-only: pneumonia,0.99969214,0.000615716,Alert
+517,Pneumonia,0.9995054,Prediction-only: pneumonia,0.9995054,0.0009891987,Alert
+518,Pneumonia,0.99995863,Prediction-only: pneumonia,0.99995863,8.273125e-05,Alert
+519,Normal,0.41042936,Prediction-only: normal,0.41042936,0.8208587,No urgent action
+520,Pneumonia,0.99950755,Prediction-only: pneumonia,0.99950755,0.0009849072,Alert
+521,Normal,0.013223998,Prediction-only: normal,0.013223998,0.026448011,No urgent action
+522,Pneumonia,0.99714714,Prediction-only: pneumonia,0.99714714,0.005705714,Alert
+523,Normal,0.7293627,Prediction-only: pneumonia,0.7293627,0.54127455,No urgent action
+524,Pneumonia,0.9993086,Prediction-only: pneumonia,0.9993086,0.0013828278,Alert
+525,Pneumonia,0.9999449,Prediction-only: pneumonia,0.9999449,0.00011014938,Alert
+526,Pneumonia,0.9996369,Prediction-only: pneumonia,0.9996369,0.000726223,Alert
+527,Normal,0.047247365,Prediction-only: normal,0.047247365,0.0944947,No urgent action
+528,Pneumonia,0.9998518,Prediction-only: pneumonia,0.9998518,0.0002963543,Alert
+529,Normal,0.95963895,Prediction-only: pneumonia,0.95963895,0.08072209,Review
+530,Pneumonia,0.99997616,Prediction-only: pneumonia,0.99997616,4.7683716e-05,Alert
+531,Normal,0.38983843,Prediction-only: normal,0.38983843,0.77967685,No urgent action
+532,Pneumonia,0.9789594,Prediction-only: pneumonia,0.9789594,0.042081237,Review
+533,Pneumonia,0.6094265,Prediction-only: pneumonia,0.6094265,0.781147,No urgent action
+534,Pneumonia,0.993022,Prediction-only: pneumonia,0.993022,0.013955951,Alert
+535,Normal,0.4485832,Prediction-only: normal,0.4485832,0.8971664,No urgent action
+536,Pneumonia,0.9996432,Prediction-only: pneumonia,0.9996432,0.0007135868,Alert
+537,Pneumonia,0.9995782,Prediction-only: pneumonia,0.9995782,0.00084364414,Alert
+538,Pneumonia,0.9984908,Prediction-only: pneumonia,0.9984908,0.0030183792,Alert
+539,Pneumonia,0.99760026,Prediction-only: pneumonia,0.99760026,0.004799485,Alert
+540,Normal,0.20241201,Prediction-only: normal,0.20241201,0.40482402,No urgent action
+541,Normal,0.11163314,Prediction-only: normal,0.11163314,0.22326624,No urgent action
+542,Normal,0.98768765,Prediction-only: pneumonia,0.98768765,0.024624705,Alert
+543,Pneumonia,0.99971527,Prediction-only: pneumonia,0.99971527,0.0005694628,Alert
+544,Pneumonia,0.9999708,Prediction-only: pneumonia,0.9999708,5.8412552e-05,Alert
+545,Pneumonia,0.999876,Prediction-only: pneumonia,0.999876,0.00024795532,Alert
+546,Pneumonia,0.99824524,Prediction-only: pneumonia,0.99824524,0.0035095215,Alert
+547,Pneumonia,0.99678147,Prediction-only: pneumonia,0.99678147,0.006437063,Alert
+548,Normal,0.9893623,Prediction-only: pneumonia,0.9893623,0.021275401,Alert
+549,Pneumonia,0.9981061,Prediction-only: pneumonia,0.9981061,0.003787756,Alert
+550,Pneumonia,0.99997795,Prediction-only: pneumonia,0.99997795,4.4107437e-05,Alert
+551,Pneumonia,0.99987257,Prediction-only: pneumonia,0.99987257,0.00025486946,Alert
+552,Normal,0.7804402,Prediction-only: pneumonia,0.7804402,0.43911958,No urgent action
+553,Normal,0.35734433,Prediction-only: normal,0.35734433,0.71468866,No urgent action
+554,Pneumonia,0.9992324,Prediction-only: pneumonia,0.9992324,0.0015351772,Alert
+555,Pneumonia,0.99869895,Prediction-only: pneumonia,0.99869895,0.0026021004,Alert
+556,Normal,0.030891372,Prediction-only: normal,0.030891372,0.061782718,No urgent action
+557,Pneumonia,0.9988343,Prediction-only: pneumonia,0.9988343,0.002331376,Alert
+558,Normal,0.0023563986,Prediction-only: normal,0.0023563986,0.00471282,No urgent action
+559,Pneumonia,0.99962246,Prediction-only: pneumonia,0.99962246,0.00075507164,Alert
+560,Normal,0.036996435,Prediction-only: normal,0.036996435,0.07399285,No urgent action
+561,Pneumonia,0.99617803,Prediction-only: pneumonia,0.99617803,0.007643938,Alert
+562,Pneumonia,0.99894446,Prediction-only: pneumonia,0.99894446,0.0021110773,Alert
+563,Pneumonia,0.99992824,Prediction-only: pneumonia,0.99992824,0.00014352798,Alert
+564,Pneumonia,0.99961984,Prediction-only: pneumonia,0.99961984,0.00076031685,Alert
+565,Normal,0.49692354,Prediction-only: normal,0.49692354,0.9938471,No urgent action
+566,Pneumonia,0.9998679,Prediction-only: pneumonia,0.9998679,0.0002641678,Alert
+567,Pneumonia,0.96892434,Prediction-only: pneumonia,0.96892434,0.062151313,Review
+568,Pneumonia,0.99980557,Prediction-only: pneumonia,0.99980557,0.0003888607,Alert
+569,Pneumonia,0.9997835,Prediction-only: pneumonia,0.9997835,0.00043296814,Alert
+570,Normal,0.092057995,Prediction-only: normal,0.092057995,0.184116,No urgent action
+571,Pneumonia,0.28349942,Prediction-only: normal,0.28349942,0.56699884,No urgent action
+572,Normal,0.67618835,Prediction-only: pneumonia,0.67618835,0.6476233,No urgent action
+573,Pneumonia,0.9986326,Prediction-only: pneumonia,0.9986326,0.0027347803,Alert
+574,Pneumonia,0.99979496,Prediction-only: pneumonia,0.99979496,0.00041007996,Alert
+575,Normal,0.048921514,Prediction-only: normal,0.048921514,0.09784305,No urgent action
+576,Pneumonia,0.99396956,Prediction-only: pneumonia,0.99396956,0.012060881,Alert
+577,Normal,0.98391855,Prediction-only: pneumonia,0.98391855,0.032162905,Alert
+578,Normal,0.44938645,Prediction-only: normal,0.44938645,0.8987729,No urgent action
+579,Pneumonia,0.9963002,Prediction-only: pneumonia,0.9963002,0.007399559,Alert
+580,Pneumonia,0.99298555,Prediction-only: pneumonia,0.99298555,0.014028907,Alert
+581,Pneumonia,0.99832445,Prediction-only: pneumonia,0.99832445,0.0033510923,Alert
+582,Pneumonia,0.999828,Prediction-only: pneumonia,0.999828,0.000344038,Alert
+583,Pneumonia,0.9999201,Prediction-only: pneumonia,0.9999201,0.00015974045,Alert
+584,Normal,0.0310671,Prediction-only: normal,0.0310671,0.062134206,No urgent action
+585,Pneumonia,0.9989758,Prediction-only: pneumonia,0.9989758,0.0020483732,Alert
+586,Pneumonia,0.9999714,Prediction-only: pneumonia,0.9999714,5.722046e-05,Alert
+587,Pneumonia,0.99867576,Prediction-only: pneumonia,0.99867576,0.0026484728,Alert
+588,Normal,0.65876937,Prediction-only: pneumonia,0.65876937,0.68246126,No urgent action
+589,Pneumonia,0.93952453,Prediction-only: pneumonia,0.93952453,0.12095094,Review
+590,Pneumonia,0.99978304,Prediction-only: pneumonia,0.99978304,0.0004339218,Alert
+591,Pneumonia,0.9989034,Prediction-only: pneumonia,0.9989034,0.0021932125,Alert
+592,Pneumonia,0.99896204,Prediction-only: pneumonia,0.99896204,0.0020759106,Alert
+593,Normal,0.24965079,Prediction-only: normal,0.24965079,0.49930155,No urgent action
+594,Pneumonia,0.99980235,Prediction-only: pneumonia,0.99980235,0.000395298,Alert
+595,Normal,0.8683123,Prediction-only: pneumonia,0.8683123,0.2633754,No urgent action
+596,Pneumonia,0.99799466,Prediction-only: pneumonia,0.99799466,0.0040106773,Alert
+597,Pneumonia,0.99932986,Prediction-only: pneumonia,0.99932986,0.00134027,Alert
+598,Pneumonia,0.8694121,Prediction-only: pneumonia,0.8694121,0.26117575,No urgent action
+599,Pneumonia,0.96345645,Prediction-only: pneumonia,0.96345645,0.073087096,Review
+600,Pneumonia,0.99970645,Prediction-only: pneumonia,0.99970645,0.00058710575,Alert
+601,Pneumonia,0.9998373,Prediction-only: pneumonia,0.9998373,0.00032544136,Alert
+602,Normal,0.01440889,Prediction-only: normal,0.01440889,0.028817773,No urgent action
+603,Pneumonia,0.99791735,Prediction-only: pneumonia,0.99791735,0.004165292,Alert
+604,Pneumonia,0.996583,Prediction-only: pneumonia,0.996583,0.00683403,Alert
+605,Pneumonia,0.9974976,Prediction-only: pneumonia,0.9974976,0.0050047636,Alert
+606,Normal,0.8345434,Prediction-only: pneumonia,0.8345434,0.3309132,No urgent action
+607,Normal,0.99658716,Prediction-only: pneumonia,0.99658716,0.0068256855,Alert
+608,Pneumonia,0.8292316,Prediction-only: pneumonia,0.8292316,0.34153676,No urgent action
+609,Pneumonia,0.9835608,Prediction-only: pneumonia,0.9835608,0.0328784,Alert
+610,Pneumonia,0.9992889,Prediction-only: pneumonia,0.9992889,0.0014221668,Alert
+611,Normal,0.85526663,Prediction-only: pneumonia,0.85526663,0.28946674,No urgent action
+612,Pneumonia,0.99971646,Prediction-only: pneumonia,0.99971646,0.0005670786,Alert
+613,Pneumonia,0.9966166,Prediction-only: pneumonia,0.9966166,0.006766796,Alert
+614,Normal,0.1372701,Prediction-only: normal,0.1372701,0.2745402,No urgent action
+615,Pneumonia,0.9956438,Prediction-only: pneumonia,0.9956438,0.008712411,Alert
+616,Pneumonia,0.9998276,Prediction-only: pneumonia,0.9998276,0.00034475327,Alert
+617,Pneumonia,0.9976579,Prediction-only: pneumonia,0.9976579,0.00468421,Alert
+618,Pneumonia,0.96343166,Prediction-only: pneumonia,0.96343166,0.07313669,Review
+619,Normal,0.06655522,Prediction-only: normal,0.06655522,0.1331104,No urgent action
+620,Normal,0.5132975,Prediction-only: pneumonia,0.5132975,0.973405,No urgent action
+621,Normal,0.34851557,Prediction-only: normal,0.34851557,0.69703114,No urgent action
+622,Normal,0.9844624,Prediction-only: pneumonia,0.9844624,0.03107524,Alert
+623,Normal,0.056697074,Prediction-only: normal,0.056697074,0.11339414,No urgent action

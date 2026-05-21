@@ -1,0 +1,4 @@
+UVIF decision category,Meaning,Number of cases,Mean pneumonia probability,Mean uncertainty
+Alert,High-risk probability exceeds the conservative UVIF alert threshold.,380,0.9976353645324707,0.004729205276817083
+Review,Near-threshold evidence is not forced into a class and is routed to review.,34,0.958824634552002,0.08235076069831848
+No urgent action,Evidence is below the UVIF alert/review region.,210,0.3031701445579529,0.30259010195732117

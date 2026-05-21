@@ -1,0 +1,6 @@
+Dimension,Conventional AI,UVIF
+Main objective,Minimizes prediction error.,"Balances prediction, uncertainty, risk, clinical burden, and safe action."
+Output logic,Prediction-only output with a forced class decision.,Decision categories: Alert / Review / No urgent action.
+Uncertainty handling,Uncertainty remains implicit in the probability score.,Uncertainty is explicitly represented in the decision layer.
+Risk and burden,False positives and false negatives are consequences of a fixed threshold.,"False-positive burden, false-negative risk, and review routing are part of the operating rule."
+Clinical behavior,Every case is classified as normal or pneumonia.,"Cases may trigger Alert, Review, or No urgent action depending on equilibrium evidence."
